@@ -1,0 +1,23 @@
+{
+  "name": "zmingzhi/collection",
+  "description": "Collection 组件提供一个流畅、方便的封装来操作数据",
+  "type": "project",
+  "keywords": [
+    "collection",
+    "集合管理"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0",
+    "zmingzhi/xml": "~1.0"
+  },
+  "autoload": {
+    "files": [
+      "src/helper.php"
+    ],
+    "psr-4": {
+      "zongphp\\collection\\": "src"
+    }
+  }
+}
