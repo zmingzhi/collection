@@ -1,1 +1,3 @@
-# collection
+# 集合
+
+Collection 组件提供一个流畅、方便的封装来操作数据。
